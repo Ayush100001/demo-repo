@@ -7,6 +7,4 @@ Html
 css 
 JavaScript 
 C++
-Express 
-Node.js
 

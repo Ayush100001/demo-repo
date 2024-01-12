@@ -6,7 +6,5 @@ int main()
 	cin>>age;
 	
 	cout<<"Age: "<<a<<endl;
-	cout<<"Hello"<<endl;
-	
 	return 0;
 }
